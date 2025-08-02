@@ -160,3 +160,8 @@ For questions or issues:
 
 **Enjoy organizing your daily tasks with this beautiful planner!** 🎯
 
+## 🚀 Live Demo
+
+🌐 [Click here to try the Daily Planner](https://idyllic-paprenjak-5c2fc4.netlify.app)
+
+
