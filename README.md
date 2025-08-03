@@ -3,7 +3,7 @@
 
 # Daily Planner Website
 
-A beautiful, responsive daily planner website built with HTML, CSS, and JavaScript. This application helps you organize your daily tasks with an intuitive interface and powerful features.
+A beautiful,responsive daily planner website built with HTML, CSS, and JavaScript. This application helps you organize your daily tasks with an intuitive interface and powerful features.
 
 ## Features
 
@@ -158,7 +158,7 @@ For questions or issues:
 
 ---
 
-**Enjoy organizing your daily tasks with this beautiful planner!** 🎯
+**Enjoy organizing your daily tasks with this beautiful planner!** 
 
 ## 🚀 Live Demo
 
