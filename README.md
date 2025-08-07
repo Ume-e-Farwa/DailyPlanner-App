@@ -1,4 +1,4 @@
-# DailyPlanner-App
+ # DailyPlanner-App
 
 
 # Daily Planner Website
@@ -13,7 +13,7 @@ A beautiful,responsive daily planner website built with HTML, CSS, and JavaScrip
 - **Complete Tasks**: Mark tasks as completed with visual feedback
 - **Delete Tasks**: Remove tasks you no longer need
 - **Filter Tasks**: View all, pending, or completed tasks
-- **Statistics**: Real-time stats showing total, completed, and pending tasks
+- **Statistics**: Real-time stats showing total,completed,and pending tasks
 
 ### 🎨 Design Features
 - **Modern UI**: Clean, professional design with gradient backgrounds
